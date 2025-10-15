@@ -1,0 +1,26 @@
+B001, Enfärgad Hoodie med blixtlås, 399,95 kr, - Produkttyp: Hoodie med blixtlås 
+- Nacken: Hoodie 
+- Ärm: Långa ärmar 
+- Passform: Avslappnad
+B002, Enfärgad Sweatshirt, 299,95 kr, - Produkttyp: Sweatshirt 
+- Nacken: Rundringning 
+- Ärm: Långa ärmar 
+- Passform: Avslappnad
+B003, Enfärgad Hoodie, 399,95 kr, - Produkttyp: Hoodie 
+- Nacken: Hoodie 
+- Ärm: Långa ärmar 
+- Fickor: Känguruficka 
+- Passform: AvslappnadB001, Enfärgad Hoodie med blixtlås, 399,95 kr, - Produkttyp: Hoodie med blixtlås 
+- Nacken: Hoodie 
+- Ärm: Långa ärmar 
+- Passform: Avslappnad
+B002, Enfärgad Sweatshirt, 299,95 kr, - Produkttyp: Sweatshirt 
+- Nacken: Rundringning 
+- Ärm: Långa ärmar 
+- Passform: Avslappnad
+B003, Enfärgad Hoodie, 399,95 kr, - Produkttyp: Hoodie 
+- Nacken: Hoodie 
+- Ärm: Långa ärmar 
+- Fickor: Känguruficka 
+- Passform: Avslappnad
+B004, Ful tröja, 1 kr, Den är ful.

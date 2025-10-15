@@ -1,0 +1,5 @@
+A001; The Pragmatic Programmer; 360 kr; The Pragmatic Programmer is one of those rare tech books you'll read, re-read, and read again over the years. Whether you're new to the field or an experienced practitioner, you'll come away with fresh insights each and every time.
+A002; Java steg för steg; 339 kr; Denna bok är tänkt att passa som kurslitteratur i grundläggande programmeringskurser, till exempel i en första kurs på universitet eller högskolan.
+A003; Effective Java; 395 kr; Written in a crisp, example-driven style, Effective Java is a must-read for every serious Java developer from intermediate programmers striving for mastery to seasoned professionals aiming to write cleaner, more elegant, and maintainable code.A001; The Pragmatic Programmer; 360 kr; The Pragmatic Programmer is one of those rare tech books you'll read, re-read, and read again over the years. Whether you're new to the field or an experienced practitioner, you'll come away with fresh insights each and every time. 
+A004; ABC; 149 kr; Alfabet för efterblivna
+A005; CDE; 149 kr; Forsättning alfabet för erfetblivna
